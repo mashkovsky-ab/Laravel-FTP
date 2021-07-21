@@ -1,5 +1,5 @@
 {
-    "name": "anchu/ftp",
+    "name": "mashkovsky-ab/laravel-ftp",
     "description": "A simple Laravel 7 / 8 ftp service provider",
     "keywords": ["ftp", "laravel", "l5", "l6","l7","l8", "service provider"],
     "license": "MIT",
